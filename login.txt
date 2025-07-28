@@ -1,0 +1,12 @@
+Admin Portal:
+Username: admin
+Password: admin
+
+
+
+Employee Portal:
+Username: employee
+Password: password123
+--- OR ---
+Username: manager
+Password: password456
